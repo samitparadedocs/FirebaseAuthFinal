@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521132806938",
+    "firebase_url": "https://firbasesamit1.firebaseio.com",
+    "project_id": "firbasesamit1",
+    "storage_bucket": "firbasesamit1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521132806938:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521132806938-c61mjm1l7pv0h3eobhs0o034onqumajk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEaWQdNZ8ra3dBxSgmDjhY8JygIj-Cc4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
